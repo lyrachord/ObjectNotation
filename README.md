@@ -2,7 +2,7 @@
 The Object Notatin is a base syntax framework which contains a series of application.
 
 # History
-The Object Notation inspired by JSON. The biggest movitation is the quote. My thought is, the string contians quote chars, the time loss of one person writing the quote chars is not a problem.Nevertheless, it's a big problem when the whole world write the quote chars. So I tried to advise JSON to remove the quote, but I failed. Indeed ,the removing of quote means that the JSON syntax need to add more kinds of string form.
+The Object Notation inspired by JSON in 2006. The biggest movitation is the quote. My thought is, the string contians quote chars, the time loss of one person writing the quote chars is not a problem.Nevertheless, it's a big problem when the whole world write the quote chars. So I tried to advise JSON to remove the quote, but I failed. Indeed ,the removing of quote means that the JSON syntax need to add more kinds of string form.
 
 At the same time, Dan Yodler, I found him at ajaxian.com doing some similar work.
 
