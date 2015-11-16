@@ -24,8 +24,21 @@ So the nest path concept emerges in the Object Notation syntax, which seems like
 As a framework,Object Notation uses a few symbols by a extendable form.
 A typical example, [OSOM](https://github.com/lyrachord/OSOM)(Original Structured Object Model, pronounce ['ɔsəm] same as awesome) use follow symbols
 
-, : ; {} ' " `
+, : ; {} ' " ` /* */ //
 ## Structure
+Object Notation use the form like plain old C structure.
+```
+/*
+root object, the document object
+*/
+key: value; //key value pair separated byte COLON, end with SEMI(or semicolon)
+nest {
+  key: value;
+}
+```
 ## Components
 ### String
+### Comments
+### Array
+### nest object
 
