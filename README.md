@@ -3,7 +3,7 @@ The Object Notatin(<b>ON</b>) is a base syntax framework which contains a series
 
 ON's syntax is dead simple, the most simple form is just like the plain old c structure.
 
-ON contains a powerful parser for reading source text, producing structured tree event streams. Client is responsible  for generating, or translating to target model. It can be widely used to build languages, tools, and frameworks. 
+ON contains a powerful parser for reading source text, producing structured tree event streams. Client is responsible  for generating, or translating to target model. It can be widely used to build languages, tools, and frameworks. There are some client applications, such as OSOM, ONANT, ON-Spring.
 
 # History
 The Object Notation inspired by JSON in 2006. The biggest movitation is the quote. My thought is, the string contians quote chars, the time loss of one person writing the quote chars is not a problem.Nevertheless, it's a big problem when the whole world write the quote chars. So I tried to advise JSON to remove the quote, but I failed. Indeed ,the removing of quote means that the JSON syntax need to add more kinds of string form.
