@@ -1,5 +1,5 @@
 # ObjectNotation
-The Object Notatin(<b>ON</b>) is a base syntax framework which contains a series of application.
+The Object Notatin(<b>ON</b>) is a base syntax framework which contains a series of applications.
 
 ON's syntax is dead simple, the most simple form is just like the plain old c structure.
 
